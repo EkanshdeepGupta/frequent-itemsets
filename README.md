@@ -22,8 +22,8 @@ For each frequency, the number of frequent itemsets, running time and the itemse
 
 ## LIBRARIES
 
-- math: for math.ceil function
-- time: for measuring running time
+- math: for math.ceil function.
+- time: for measuring running time.
 - copy: to make copies of mutable data types.
 
 ## ANALYSIS OF THE OUTPUT
