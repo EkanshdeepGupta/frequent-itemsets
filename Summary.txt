@@ -6,7 +6,7 @@ Samarth Nayana Ramesh, BMC201722
 
 ABOUT THE PROGRAM
 
-We created a Python3 program to compute Frequent Itemsets using the Apriori Algorithm on the Bag of Words dataset : http://archive.ics.uci.edu/ml/datasets/Bag+of+Words
+We created a Python3 program to compute Frequent Itemsets using the Apriori Algorithm on the Bag of Words dataset: http://archive.ics.uci.edu/ml/datasets/Bag+of+Words
 
 We read as input the bag of words and computed frequent itemsets of size upto 10 for different frequencies for the three datasets: Kos, Enron Emails & NIPS full papers.
 
