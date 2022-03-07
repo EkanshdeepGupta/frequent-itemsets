@@ -22,7 +22,7 @@ For each frequency, the number of frequent itemsets, running time and the itemse
 - time: for measuring running time.
 - copy: to make copies of mutable data types.
 
-## ANALYSIS OF THE OUTPUT
+## Analysis
 
 We have fixed K to be 10. For almost all the frequencies, we observed that some frequent itemsets of size k < 10 were empty. 
 
