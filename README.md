@@ -1,18 +1,14 @@
-## DMML ASSIGNMENT 1
-Submission: 29th September, 2019
+## Frequent Itemsets
 
-Ekanshdeep Gupta, BMC201710  
-Samarth Ramesh, BMC201722
+Project submitted as part of the Data Mining and Machine Learning course by [Madhavan Mukund](https://www.cmi.ac.in/~madhavan/).
 
-## ABOUT THE PROGRAM
-
-We created a Python3 program to compute Frequent Itemsets using the Apriori Algorithm on the Bag of Words dataset: http://archive.ics.uci.edu/ml/datasets/Bag+of+Words
+We created a Python3 program to compute Frequent Itemsets using the Apriori Algorithm on the [Bag of Words dataset](http://archive.ics.uci.edu/ml/datasets/Bag+of+Words).
 
 We read as input the bag of words and computed frequent itemsets of size upto 10 for different frequencies for the three datasets: Kos, Enron Emails & NIPS full papers.
 
-## PARAMETERS
+## Parameters
 
-For the different datasets, we used different frequencies:
+For the different datasets, we used different frequencies discovered experimentally:
 
 - For Kos, we used the frequencies 0.5, 0.4, 0.3, 0.25, 0.2, 0.15, 0.1
 - For Enron, we used the frequencies 0.5, 0.4, 0.3, 0.2, 0.15, 0.1, 0.05, 0.04, 0.03
@@ -20,7 +16,7 @@ For the different datasets, we used different frequencies:
 
 For each frequency, the number of frequent itemsets, running time and the itemsets are all stored in the corresponding output files.
 
-## LIBRARIES
+## Dependencies
 
 - math: for math.ceil function.
 - time: for measuring running time.
